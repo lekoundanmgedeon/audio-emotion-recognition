@@ -71,4 +71,9 @@ Results will be compared and discussed in class.
 
 ---
 
-## 👩‍💻 Repository Structure
+## 🏆 Leaderboard
+- Submit your predictions as `results/submission.csv`.
+- Run `python evaluate.py` to compute your score.
+- The leaderboard is stored in `results/leaderboard.csv`.
+- Ranking is based on **Macro F1-score**.
+
