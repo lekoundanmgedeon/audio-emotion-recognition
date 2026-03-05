@@ -1,0 +1,26 @@
+# Core Python scientific stack
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+
+# PyTorch (deep learning framework)
+torch
+torchvision
+torchaudio
+
+# Audio processing
+librosa
+soundfile
+pydub
+
+# Machine learning utilities
+scikit-learn
+
+# Jupyter environment
+jupyter
+notebook
+
+# Optional: visualization and logging
+tensorboard
